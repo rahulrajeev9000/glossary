@@ -1,0 +1,13 @@
+
+
+SOLID principles: Single Responsibility, Open/Closed, Liskovs Substitution, Interface segregation principle, Dependecy inversion principles
+
+SIngle Resonsibility: Class should only have one responsibility. One task per class.
+open/closed: open for extension closed for modification
+Liskov substitution: subclasses subsitutable with parent class.
+Interface segregation: many client specific interfaces better than one.
+Dependency inversion: depending on abstractions rather than concretions 
+
+Strongly-typed language: a programming language where the data type for the constant or variable is predefined. In java when a variable is declared, it must be informed to the comipler what data it is like if its an integer or a String.
+
+abstraction:  can be thought of as an extension of encapsulation. This mechanism should hide internal implementation details. It should only reveal operations relevant for the other objects. You can interact with a class without knowing the methods. Implementation details are hidden.
